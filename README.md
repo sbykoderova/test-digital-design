@@ -1,1 +1,1 @@
-# Digital_Design_Test
+# Тестовое задание для Digital Design
