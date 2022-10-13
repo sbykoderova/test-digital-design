@@ -3,7 +3,7 @@
 
 ## &#10148; Задача 1
 Вёрстка веб страницы, которая содержит введение и обзор веб-технологии (любой).<br>
-### Демо: https://sbykoderova.github.io/Digital_Design_Test/
+### Демо: https://sbykoderova.github.io/test-digital-design/
 
 ## &#10148; Задача 2
 Разработка функции getDayInfo(date), которая возвращает информацию о выбранной дате.
